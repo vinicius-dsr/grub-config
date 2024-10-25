@@ -7,7 +7,7 @@ Script para configurar corretamento o grub para identificar o sistemas instalado
 
 Baixar o script
 ```bash
-git clone
+git clone https://github.com/vinicius-dsr/post-install-xubuntu.git
 ```
 
 Configurar permissão
