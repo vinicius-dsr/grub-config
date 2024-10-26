@@ -12,10 +12,10 @@ git clone https://github.com/vinicius-dsr/grub-config.git
 
 Configurar permissão
 ```bash
-chmod +x config-grub.sh
+chmod +x configurar-grub.sh
 ```
 
 Executar o script
 ```bash
-./config-grub.sh
+./configurar-grub.sh
 ```
